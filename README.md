@@ -2,7 +2,7 @@
 List of nice, useful, productivity tools and utilities that I regularly use on Windows
 
 # Windows organization
-- Use mutilple desktops (`Windows + Tab`), might feel disoriented and clumsy at first, but after a while it should start feeling better!
+- Use multiple desktops (`Windows + Tab`), might feel disoriented and clumsy at first, but after a while it should start feeling better!
 
 - [Always On Top](http://img.labnol.org/di/always-on-top.zip) by `labnol`. Default key combo is `Ctrl + Space`.
 
