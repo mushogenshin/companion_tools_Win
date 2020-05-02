@@ -56,5 +56,5 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
   - `Right-click` in the Explorer empty space, then press `WF` to create new folder
   - `Right-click` on a folder or a file, then press `R` to open its `Properties`
   - `Ctrl + N` to duplicate -- retaining location and history
-  - `Ctrl + Shift + Right-click` for even more options
+  - `Shift + Right-click` for even more options
 
