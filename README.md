@@ -4,7 +4,7 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 # Windows organization
 - Use multiple desktops (`Windows + Tab`), might feel disoriented and clumsy at first, but after a while it should start feeling better!
 
-- [Always On Top](http://img.labnol.org/di/always-on-top.zip) by `labnol`. Default key combo is `Ctrl + Space`.
+- [Always On Top](http://img.labnol.org/di/always-on-top.zip) by `labnol`. Default key combo is `Ctrl + Space` to toggle the topmost window.
 
 - Hold `Win` key while placing the mouse **anywhere** on a window to drag it, by installing [AutoHotKey](https://www.autohotkey.com/) and run the attached [WindowsWindowDrag](./WindowsWindowDrag/WindowsWindowDrag.ahk) `.ahk` file. This mimics a small yet supremely beautiful behavior in Linux.
 
