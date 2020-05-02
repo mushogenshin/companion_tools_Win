@@ -1,4 +1,4 @@
-# companion_tools_Win
+# hoan_companion_tools_Win
 List of nice, useful, productivity tools and utilities that I regularly use on Windows
 
 # Windows organization
@@ -41,7 +41,10 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - [BleachBit](https://www.bleachbit.org/), to deeply clean up unnecessary junk files in your system with ease.
 
-# Frequently used hotkeys
+# Password Manager
+- [LastPass](https://www.lastpass.com/) FTW. I used `Dashlane` in the past, but I switched to `LastPass` and never went back.
+
+# Frequently Used Hotkeys
 - `Ctrl + W` is almost ubiquitous to close something, be it Explorer windows, Chrome tabs, Visual Code tabs, etc.
 
 - Explorer:
