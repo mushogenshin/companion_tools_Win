@@ -16,7 +16,7 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 - [Notion](https://www.notion.so/) is great for writing a lot of things, and also for web-clipping. I used `Evernote` and `Wunderlist` before, but now I stick to `Notion`.
 
 # Messaging
-- Stay away from `Facebook Messenger` as much as you can. From group chat to even teamwork communication, use [Discord](https://discordapp.com/) for your sanity.
+- My pet peeve and a message to the majority of Vietnamese youth: Stay away from `Facebook Messenger` as much as you can. From group chat to even teamwork communication, use [Discord](https://discordapp.com/) for your sanity.
 
 # Image-related
 - [PureRef](https://www.pureref.com/) of course for all photo reference purposes.
