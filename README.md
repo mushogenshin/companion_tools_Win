@@ -10,7 +10,7 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - Use [PowerToys](https://github.com/microsoft/PowerToys/releases) to organize windows into panels, aka. "tiling layout". Download the `.msi` and install.
 
-# Notes
+# Note-taking
 - [Epic Pen](https://epic-pen.com/) is great for quickly taking notes directly onto the screen.
 
 - [Notion](https://www.notion.so/) is great for writing a lot of things, and also for web-clipping. I used `Evernote` and `Wunderlist` before, but now I stick to `Notion`.
