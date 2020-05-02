@@ -41,6 +41,8 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - [BleachBit](https://www.bleachbit.org/), to deeply clean up unnecessary junk files in your system with ease.
 
+- [SharpKeys](https://github.com/randyrants/sharpkeys/releases) to remap keyboard.
+
 # Password Manager
 - [LastPass](https://www.lastpass.com/) FTW. I used `Dashlane` in the past, but I switched to `LastPass` and never went back.
 
