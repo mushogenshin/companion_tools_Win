@@ -27,7 +27,12 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - [GIF Scrubber Chrome extension](https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en), super helpful for animation students :). Also good for exploding a GIF.
 
+# Version Control
+- [Git](https://git-scm.com/), of course. Admittedly not so easy to learn how to use at first for lay persons, though.
+
 # Utils
+- [7-Zip](https://www.7-zip.org/) for compressing and uncompressing stuffs. No need for `WinZip` anymore.
+
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) for batch renaming files and folders. Wonderful tool.
 
 - [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/), a gorgeously designed tool to help with timer.
@@ -35,3 +40,16 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), use it to easily look for locations taking up the most space on your hard drives.
 
 - [BleachBit](https://www.bleachbit.org/), to deeply clean up unnecessary junk files in your system with ease.
+
+# Frequently used hotkeys
+- `Ctrl + W` is almost ubiquitous to close something, be it Explorer windows, Chrome tabs, Visual Code tabs, etc.
+
+- Explorer:
+  - `Win + E` to launch new Explorer
+  - `Win + D` to `Show Desktop`
+  - `Alt + Tab` to cycle through the opened apps
+  - `Right-click` in the Explorer empty space, then press `WF` to create new folder
+  - `Right-click` on a folder or a file, then press `R` to open its `Properties`
+  - `Ctrl + N` to duplicate -- retaining location and history
+  - `Ctrl + Shift + Right-click` for even more options
+
