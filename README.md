@@ -1,4 +1,4 @@
-# hoan_companion_tools_Win
+# My companion tools (Windows)
 List of nice, useful, productivity tools and utilities that I regularly use on Windows. This list is intended for many of my art students.
 
 # Windows organization
