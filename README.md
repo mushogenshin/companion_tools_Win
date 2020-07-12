@@ -1,7 +1,7 @@
 # My companion tools (Windows)
 List of nice, useful, productivity tools and utilities that I regularly use on Windows. This list is intended for many of my art students.
 
-# Windows organization
+## Windows organization
 - Use multiple desktops (`Windows + Tab`), might feel disoriented and clumsy at first, but after a while it should start feeling better!
 
 - [Always On Top](http://img.labnol.org/di/always-on-top.zip) by `labnol`. Default key combo is `Ctrl + Space` to toggle the topmost window.
@@ -10,15 +10,15 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - Use [PowerToys](https://github.com/microsoft/PowerToys/releases) to organize windows into panels, aka. "tiling layout". Download the `.msi` and install.
 
-# Note-taking
+## Note-taking
 - [Epic Pen](https://epic-pen.com/) is great for quickly taking notes directly onto the screen.
 
 - [Notion](https://www.notion.so/) is great for writing a lot of things, and also for web-clipping. I used `Evernote` and `Wunderlist` before, but now I stick to `Notion`.
 
-# Messaging
+## Messaging
 - My pet peeve and a message to the majority of Vietnamese youth: Stay away from `Facebook Messenger` as much as you can. From group chat to even teamwork communication, use [Discord](https://discordapp.com/) for your sanity.
 
-# Image-related
+## Image-related
 - [PureRef](https://www.pureref.com/) of course for all photo reference purposes.
 
 - [FastStone Photo Resizer](https://www.faststone.org/FSResizerDetail.htm) for all blazingly fast photo resizing and conversion needs.
@@ -27,10 +27,10 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - [GIF Scrubber Chrome extension](https://chrome.google.com/webstore/detail/gif-scrubber/gbdacbnhlfdlllckelpdkgeklfjfgcmp?hl=en), super helpful for animation students :). Also good for exploding a GIF.
 
-# Version Control
+## Version Control
 - [Git](https://git-scm.com/), of course. Admittedly not so easy to learn how to use at first for lay persons, though.
 
-# Utils
+## Utils
 - [7-Zip](https://www.7-zip.org/) for compressing and uncompressing stuffs. No need for `WinZip` anymore.
 
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) for batch renaming files and folders. Wonderful tool.
@@ -43,10 +43,10 @@ List of nice, useful, productivity tools and utilities that I regularly use on W
 
 - [SharpKeys](https://github.com/randyrants/sharpkeys/releases) to remap keyboard.
 
-# Password Manager
+## Password Manager
 - [LastPass](https://www.lastpass.com/) FTW. I used `Dashlane` in the past, but I switched to `LastPass` and never went back.
 
-# Frequently Used Hotkeys
+## Frequently Used Hotkeys
 - `Ctrl + W` is almost ubiquitous to close something, be it Explorer windows, Chrome tabs, Visual Code tabs, etc.
 
 - Explorer:
